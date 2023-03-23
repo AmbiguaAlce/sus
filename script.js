@@ -18,4 +18,5 @@ function CalcolaFattoriale()
 		}
 	}
 	document.getElementById("demo").innerHTML = n + “! = “ + fattoriale;
+	//commento di prova
 }
